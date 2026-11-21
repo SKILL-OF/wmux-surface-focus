@@ -1,6 +1,6 @@
 ---
 name: wmux-surface-focus
-trigger: Use before creating a new wmux surface (terminal tab), and after it is created.
+description: Use before creating a new wmux surface, to select your own workspace and pane first, and re-select your own surface afterwards.
 ---
 
 # wmux surface focus
